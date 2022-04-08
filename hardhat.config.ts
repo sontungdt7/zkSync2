@@ -1,7 +1,5 @@
 require("@matterlabs/hardhat-zksync-deploy");
 require("@matterlabs/hardhat-zksync-solc");
-//import("@matterlabs/hardhat-zksync-deploy");
-//import("@matterlabs/hardhat-zksync-solc");
 
 module.exports = {
   zksolc: {
